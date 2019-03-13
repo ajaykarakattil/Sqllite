@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDb</string>
+    <string name="header">ID</string>
+</resources>
